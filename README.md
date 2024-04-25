@@ -1,5 +1,4 @@
 # Odin Recipes
----
 
 ## Overview
 A simple recipe site for some delicious dishes.
