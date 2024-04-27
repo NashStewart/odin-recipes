@@ -1,11 +1,9 @@
 body {
   background-color: #1B1D1E;
   color: #BDB7AF;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
-.heading {
-  color: #CDC8C2;
-}
 
 a {
   color: #6AA2E6;
@@ -17,4 +15,8 @@ a:visited {
 
 .recipe-container {
   width: 600px;
+}
+
+.heading {
+  color: #CDC8C2;
 }
