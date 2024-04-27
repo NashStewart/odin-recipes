@@ -1,0 +1,20 @@
+body {
+  background-color: #1B1D1E;
+  color: #BDB7AF;
+}
+
+.heading {
+  color: #CDC8C2;
+}
+
+a {
+  color: #6AA2E6;
+}
+
+a:visited {
+  color: #A55FE0;
+}
+
+.recipe-container {
+  width: 600px;
+}
